@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how big data and machine learning can produce proactive solutions for social inequality problems
 - 🌱 I’m currently learning how to build machine learning models using TensorFlow; taking a Discrete Math course in Coursera
 - 💞️ I’m looking to collaborate on anything related to journalism, plants/nature, education, social mobility, or city planning
-- 📫 How to reach me: averillerin@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erinaverill/) | averillerin@gmail.com
 
 <!---
 erinaverchill/erinaverchill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
