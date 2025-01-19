@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erin
-- 👀 I’m interested in learning how big data and machine learning can produce proactive solutions for social inequality problems
-- 💞️ I’m looking to collaborate on anything related to journalism, high desert ecology, education, or social mobility
+- 👀 I’m interested in learning how data, art, and community can produce proactive solutions for social inequity
+- 💞️ I’m looking to collaborate on anything related to journalism, high desert ecology, education, or social justice
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erinaverill/) | averillerin@gmail.com
 
 <!---
